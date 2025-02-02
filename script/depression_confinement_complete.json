@@ -1,0 +1,1549 @@
+{
+    "phases_confinement": [
+        {
+            "mois": "mars 2020",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 14.5,
+                    "nombre_absolu": 145000
+                },
+                "femmes": {
+                    "pourcentage": 16.7,
+                    "nombre_absolu": 167000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 16.1,
+                    "nombre_absolu": 322000
+                },
+                "Aquitaine": {
+                    "pourcentage": 10.3,
+                    "nombre_absolu": 206000
+                },
+                "Auvergne": {
+                    "pourcentage": 15.3,
+                    "nombre_absolu": 306000
+                },
+                "Bourgogne": {
+                    "pourcentage": 16.3,
+                    "nombre_absolu": 326000
+                },
+                "Bretagne": {
+                    "pourcentage": 13.6,
+                    "nombre_absolu": 272000
+                },
+                "Centre": {
+                    "pourcentage": 18.6,
+                    "nombre_absolu": 372000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 18.6,
+                    "nombre_absolu": 372000
+                },
+                "Corse": {
+                    "pourcentage": 19.6,
+                    "nombre_absolu": 392000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 16.2,
+                    "nombre_absolu": 324000
+                },
+                "Île-de-France": {
+                    "pourcentage": 12.1,
+                    "nombre_absolu": 242000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 12.9,
+                    "nombre_absolu": 258000
+                },
+                "Limousin": {
+                    "pourcentage": 14.2,
+                    "nombre_absolu": 284000
+                },
+                "Lorraine": {
+                    "pourcentage": 15.4,
+                    "nombre_absolu": 308000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 13.8,
+                    "nombre_absolu": 276000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 17.5,
+                    "nombre_absolu": 350000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 16.0,
+                    "nombre_absolu": 320000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 11.8,
+                    "nombre_absolu": 236000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 11.5,
+                    "nombre_absolu": 230000
+                },
+                "Picardie": {
+                    "pourcentage": 19.7,
+                    "nombre_absolu": 394000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 13.1,
+                    "nombre_absolu": 262000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 19.8,
+                    "nombre_absolu": 396000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 12.2,
+                    "nombre_absolu": 244000
+                }
+            }
+        },
+        {
+            "mois": "avril 2020",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 10.4,
+                    "nombre_absolu": 104000
+                },
+                "femmes": {
+                    "pourcentage": 16.3,
+                    "nombre_absolu": 163000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 13.0,
+                    "nombre_absolu": 260000
+                },
+                "Aquitaine": {
+                    "pourcentage": 10.2,
+                    "nombre_absolu": 204000
+                },
+                "Auvergne": {
+                    "pourcentage": 11.8,
+                    "nombre_absolu": 236000
+                },
+                "Bourgogne": {
+                    "pourcentage": 18.7,
+                    "nombre_absolu": 374000
+                },
+                "Bretagne": {
+                    "pourcentage": 14.7,
+                    "nombre_absolu": 294000
+                },
+                "Centre": {
+                    "pourcentage": 17.5,
+                    "nombre_absolu": 350000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 18.9,
+                    "nombre_absolu": 378000
+                },
+                "Corse": {
+                    "pourcentage": 17.7,
+                    "nombre_absolu": 354000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 15.2,
+                    "nombre_absolu": 304000
+                },
+                "Île-de-France": {
+                    "pourcentage": 13.4,
+                    "nombre_absolu": 268000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 15.9,
+                    "nombre_absolu": 318000
+                },
+                "Limousin": {
+                    "pourcentage": 16.8,
+                    "nombre_absolu": 336000
+                },
+                "Lorraine": {
+                    "pourcentage": 16.1,
+                    "nombre_absolu": 322000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 19.2,
+                    "nombre_absolu": 384000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 13.8,
+                    "nombre_absolu": 276000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 15.2,
+                    "nombre_absolu": 304000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 12.9,
+                    "nombre_absolu": 258000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 15.3,
+                    "nombre_absolu": 306000
+                },
+                "Picardie": {
+                    "pourcentage": 11.9,
+                    "nombre_absolu": 238000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 19.5,
+                    "nombre_absolu": 390000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 11.8,
+                    "nombre_absolu": 236000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 16.2,
+                    "nombre_absolu": 324000
+                }
+            }
+        },
+        {
+            "mois": "mai 2020",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 12.5,
+                    "nombre_absolu": 125000
+                },
+                "femmes": {
+                    "pourcentage": 17.3,
+                    "nombre_absolu": 173000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 17.4,
+                    "nombre_absolu": 348000
+                },
+                "Aquitaine": {
+                    "pourcentage": 18.5,
+                    "nombre_absolu": 370000
+                },
+                "Auvergne": {
+                    "pourcentage": 14.2,
+                    "nombre_absolu": 284000
+                },
+                "Bourgogne": {
+                    "pourcentage": 14.1,
+                    "nombre_absolu": 282000
+                },
+                "Bretagne": {
+                    "pourcentage": 14.3,
+                    "nombre_absolu": 286000
+                },
+                "Centre": {
+                    "pourcentage": 14.1,
+                    "nombre_absolu": 282000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 16.5,
+                    "nombre_absolu": 330000
+                },
+                "Corse": {
+                    "pourcentage": 19.9,
+                    "nombre_absolu": 398000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 16.5,
+                    "nombre_absolu": 330000
+                },
+                "Île-de-France": {
+                    "pourcentage": 14.8,
+                    "nombre_absolu": 296000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 18.8,
+                    "nombre_absolu": 376000
+                },
+                "Limousin": {
+                    "pourcentage": 16.9,
+                    "nombre_absolu": 338000
+                },
+                "Lorraine": {
+                    "pourcentage": 10.4,
+                    "nombre_absolu": 208000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 16.2,
+                    "nombre_absolu": 324000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 13.9,
+                    "nombre_absolu": 278000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 17.3,
+                    "nombre_absolu": 346000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 13.1,
+                    "nombre_absolu": 262000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 16.2,
+                    "nombre_absolu": 324000
+                },
+                "Picardie": {
+                    "pourcentage": 10.2,
+                    "nombre_absolu": 204000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 17.0,
+                    "nombre_absolu": 340000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 15.5,
+                    "nombre_absolu": 310000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 10.6,
+                    "nombre_absolu": 212000
+                }
+            }
+        },
+        {
+            "mois": "juin 2020",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 10.3,
+                    "nombre_absolu": 103000
+                },
+                "femmes": {
+                    "pourcentage": 16.2,
+                    "nombre_absolu": 162000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 16.8,
+                    "nombre_absolu": 336000
+                },
+                "Aquitaine": {
+                    "pourcentage": 19.1,
+                    "nombre_absolu": 382000
+                },
+                "Auvergne": {
+                    "pourcentage": 19.6,
+                    "nombre_absolu": 392000
+                },
+                "Bourgogne": {
+                    "pourcentage": 10.5,
+                    "nombre_absolu": 210000
+                },
+                "Bretagne": {
+                    "pourcentage": 15.2,
+                    "nombre_absolu": 304000
+                },
+                "Centre": {
+                    "pourcentage": 15.6,
+                    "nombre_absolu": 312000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 17.1,
+                    "nombre_absolu": 342000
+                },
+                "Corse": {
+                    "pourcentage": 19.6,
+                    "nombre_absolu": 392000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 11.7,
+                    "nombre_absolu": 234000
+                },
+                "Île-de-France": {
+                    "pourcentage": 10.2,
+                    "nombre_absolu": 204000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 13.6,
+                    "nombre_absolu": 272000
+                },
+                "Limousin": {
+                    "pourcentage": 18.8,
+                    "nombre_absolu": 376000
+                },
+                "Lorraine": {
+                    "pourcentage": 15.1,
+                    "nombre_absolu": 302000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 14.5,
+                    "nombre_absolu": 290000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 14.6,
+                    "nombre_absolu": 292000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 15.3,
+                    "nombre_absolu": 306000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 15.5,
+                    "nombre_absolu": 310000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 14.6,
+                    "nombre_absolu": 292000
+                },
+                "Picardie": {
+                    "pourcentage": 18.3,
+                    "nombre_absolu": 366000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 18.4,
+                    "nombre_absolu": 368000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 19.4,
+                    "nombre_absolu": 388000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 10.9,
+                    "nombre_absolu": 218000
+                }
+            }
+        },
+        {
+            "mois": "juillet 2020",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 14.4,
+                    "nombre_absolu": 144000
+                },
+                "femmes": {
+                    "pourcentage": 15.7,
+                    "nombre_absolu": 157000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 16.0,
+                    "nombre_absolu": 320000
+                },
+                "Aquitaine": {
+                    "pourcentage": 18.2,
+                    "nombre_absolu": 364000
+                },
+                "Auvergne": {
+                    "pourcentage": 14.7,
+                    "nombre_absolu": 294000
+                },
+                "Bourgogne": {
+                    "pourcentage": 12.5,
+                    "nombre_absolu": 250000
+                },
+                "Bretagne": {
+                    "pourcentage": 17.0,
+                    "nombre_absolu": 340000
+                },
+                "Centre": {
+                    "pourcentage": 13.8,
+                    "nombre_absolu": 276000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 13.5,
+                    "nombre_absolu": 270000
+                },
+                "Corse": {
+                    "pourcentage": 13.5,
+                    "nombre_absolu": 270000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 15.4,
+                    "nombre_absolu": 308000
+                },
+                "Île-de-France": {
+                    "pourcentage": 17.1,
+                    "nombre_absolu": 342000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 11.0,
+                    "nombre_absolu": 220000
+                },
+                "Limousin": {
+                    "pourcentage": 13.9,
+                    "nombre_absolu": 278000
+                },
+                "Lorraine": {
+                    "pourcentage": 20.0,
+                    "nombre_absolu": 400000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 15.2,
+                    "nombre_absolu": 304000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 15.8,
+                    "nombre_absolu": 316000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 16.3,
+                    "nombre_absolu": 326000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 14.6,
+                    "nombre_absolu": 292000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 13.2,
+                    "nombre_absolu": 264000
+                },
+                "Picardie": {
+                    "pourcentage": 19.6,
+                    "nombre_absolu": 392000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 11.9,
+                    "nombre_absolu": 238000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 16.3,
+                    "nombre_absolu": 326000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 16.7,
+                    "nombre_absolu": 334000
+                }
+            }
+        },
+        {
+            "mois": "août 2020",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 11.2,
+                    "nombre_absolu": 112000
+                },
+                "femmes": {
+                    "pourcentage": 18.1,
+                    "nombre_absolu": 181000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 15.8,
+                    "nombre_absolu": 316000
+                },
+                "Aquitaine": {
+                    "pourcentage": 10.2,
+                    "nombre_absolu": 204000
+                },
+                "Auvergne": {
+                    "pourcentage": 19.7,
+                    "nombre_absolu": 394000
+                },
+                "Bourgogne": {
+                    "pourcentage": 13.8,
+                    "nombre_absolu": 276000
+                },
+                "Bretagne": {
+                    "pourcentage": 13.3,
+                    "nombre_absolu": 266000
+                },
+                "Centre": {
+                    "pourcentage": 14.1,
+                    "nombre_absolu": 282000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 14.0,
+                    "nombre_absolu": 280000
+                },
+                "Corse": {
+                    "pourcentage": 10.9,
+                    "nombre_absolu": 218000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 12.0,
+                    "nombre_absolu": 240000
+                },
+                "Île-de-France": {
+                    "pourcentage": 18.3,
+                    "nombre_absolu": 366000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 16.7,
+                    "nombre_absolu": 334000
+                },
+                "Limousin": {
+                    "pourcentage": 10.5,
+                    "nombre_absolu": 210000
+                },
+                "Lorraine": {
+                    "pourcentage": 19.1,
+                    "nombre_absolu": 382000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 16.2,
+                    "nombre_absolu": 324000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 10.1,
+                    "nombre_absolu": 202000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 18.4,
+                    "nombre_absolu": 368000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 18.9,
+                    "nombre_absolu": 378000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 16.1,
+                    "nombre_absolu": 322000
+                },
+                "Picardie": {
+                    "pourcentage": 11.2,
+                    "nombre_absolu": 224000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 15.9,
+                    "nombre_absolu": 318000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 13.9,
+                    "nombre_absolu": 278000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 15.8,
+                    "nombre_absolu": 316000
+                }
+            }
+        },
+        {
+            "mois": "septembre 2020",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 12.9,
+                    "nombre_absolu": 129000
+                },
+                "femmes": {
+                    "pourcentage": 19.7,
+                    "nombre_absolu": 197000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 13.9,
+                    "nombre_absolu": 278000
+                },
+                "Aquitaine": {
+                    "pourcentage": 10.7,
+                    "nombre_absolu": 214000
+                },
+                "Auvergne": {
+                    "pourcentage": 10.1,
+                    "nombre_absolu": 202000
+                },
+                "Bourgogne": {
+                    "pourcentage": 15.6,
+                    "nombre_absolu": 312000
+                },
+                "Bretagne": {
+                    "pourcentage": 15.7,
+                    "nombre_absolu": 314000
+                },
+                "Centre": {
+                    "pourcentage": 18.7,
+                    "nombre_absolu": 374000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 14.3,
+                    "nombre_absolu": 286000
+                },
+                "Corse": {
+                    "pourcentage": 12.7,
+                    "nombre_absolu": 254000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 11.3,
+                    "nombre_absolu": 226000
+                },
+                "Île-de-France": {
+                    "pourcentage": 14.8,
+                    "nombre_absolu": 296000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 10.3,
+                    "nombre_absolu": 206000
+                },
+                "Limousin": {
+                    "pourcentage": 18.6,
+                    "nombre_absolu": 372000
+                },
+                "Lorraine": {
+                    "pourcentage": 18.0,
+                    "nombre_absolu": 360000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 16.6,
+                    "nombre_absolu": 332000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 16.9,
+                    "nombre_absolu": 338000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 17.0,
+                    "nombre_absolu": 340000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 13.9,
+                    "nombre_absolu": 278000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 11.2,
+                    "nombre_absolu": 224000
+                },
+                "Picardie": {
+                    "pourcentage": 15.0,
+                    "nombre_absolu": 300000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 13.9,
+                    "nombre_absolu": 278000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 18.1,
+                    "nombre_absolu": 362000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 17.4,
+                    "nombre_absolu": 348000
+                }
+            }
+        },
+        {
+            "mois": "octobre 2020",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 11.8,
+                    "nombre_absolu": 118000
+                },
+                "femmes": {
+                    "pourcentage": 17.3,
+                    "nombre_absolu": 173000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 14.3,
+                    "nombre_absolu": 286000
+                },
+                "Aquitaine": {
+                    "pourcentage": 18.7,
+                    "nombre_absolu": 374000
+                },
+                "Auvergne": {
+                    "pourcentage": 11.7,
+                    "nombre_absolu": 234000
+                },
+                "Bourgogne": {
+                    "pourcentage": 15.5,
+                    "nombre_absolu": 310000
+                },
+                "Bretagne": {
+                    "pourcentage": 14.8,
+                    "nombre_absolu": 296000
+                },
+                "Centre": {
+                    "pourcentage": 15.8,
+                    "nombre_absolu": 316000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 15.8,
+                    "nombre_absolu": 316000
+                },
+                "Corse": {
+                    "pourcentage": 12.1,
+                    "nombre_absolu": 242000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 14.9,
+                    "nombre_absolu": 298000
+                },
+                "Île-de-France": {
+                    "pourcentage": 19.3,
+                    "nombre_absolu": 386000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 14.5,
+                    "nombre_absolu": 290000
+                },
+                "Limousin": {
+                    "pourcentage": 17.7,
+                    "nombre_absolu": 354000
+                },
+                "Lorraine": {
+                    "pourcentage": 15.4,
+                    "nombre_absolu": 308000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 10.7,
+                    "nombre_absolu": 214000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 11.9,
+                    "nombre_absolu": 238000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 12.5,
+                    "nombre_absolu": 250000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 14.1,
+                    "nombre_absolu": 282000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 17.5,
+                    "nombre_absolu": 350000
+                },
+                "Picardie": {
+                    "pourcentage": 19.5,
+                    "nombre_absolu": 390000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 16.9,
+                    "nombre_absolu": 338000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 13.3,
+                    "nombre_absolu": 266000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 15.8,
+                    "nombre_absolu": 316000
+                }
+            }
+        },
+        {
+            "mois": "novembre 2020",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 15.0,
+                    "nombre_absolu": 150000
+                },
+                "femmes": {
+                    "pourcentage": 16.9,
+                    "nombre_absolu": 169000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 17.2,
+                    "nombre_absolu": 344000
+                },
+                "Aquitaine": {
+                    "pourcentage": 18.4,
+                    "nombre_absolu": 368000
+                },
+                "Auvergne": {
+                    "pourcentage": 14.4,
+                    "nombre_absolu": 288000
+                },
+                "Bourgogne": {
+                    "pourcentage": 12.5,
+                    "nombre_absolu": 250000
+                },
+                "Bretagne": {
+                    "pourcentage": 11.1,
+                    "nombre_absolu": 222000
+                },
+                "Centre": {
+                    "pourcentage": 14.4,
+                    "nombre_absolu": 288000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 15.0,
+                    "nombre_absolu": 300000
+                },
+                "Corse": {
+                    "pourcentage": 11.7,
+                    "nombre_absolu": 234000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 12.7,
+                    "nombre_absolu": 254000
+                },
+                "Île-de-France": {
+                    "pourcentage": 11.0,
+                    "nombre_absolu": 220000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 16.6,
+                    "nombre_absolu": 332000
+                },
+                "Limousin": {
+                    "pourcentage": 14.8,
+                    "nombre_absolu": 296000
+                },
+                "Lorraine": {
+                    "pourcentage": 13.5,
+                    "nombre_absolu": 270000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 14.5,
+                    "nombre_absolu": 290000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 16.4,
+                    "nombre_absolu": 328000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 14.3,
+                    "nombre_absolu": 286000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 11.9,
+                    "nombre_absolu": 238000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 17.4,
+                    "nombre_absolu": 348000
+                },
+                "Picardie": {
+                    "pourcentage": 18.7,
+                    "nombre_absolu": 374000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 15.6,
+                    "nombre_absolu": 312000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 12.1,
+                    "nombre_absolu": 242000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 10.8,
+                    "nombre_absolu": 216000
+                }
+            }
+        },
+        {
+            "mois": "décembre 2020",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 12.2,
+                    "nombre_absolu": 122000
+                },
+                "femmes": {
+                    "pourcentage": 16.6,
+                    "nombre_absolu": 166000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 14.1,
+                    "nombre_absolu": 282000
+                },
+                "Aquitaine": {
+                    "pourcentage": 18.5,
+                    "nombre_absolu": 370000
+                },
+                "Auvergne": {
+                    "pourcentage": 11.4,
+                    "nombre_absolu": 228000
+                },
+                "Bourgogne": {
+                    "pourcentage": 16.2,
+                    "nombre_absolu": 324000
+                },
+                "Bretagne": {
+                    "pourcentage": 14.1,
+                    "nombre_absolu": 282000
+                },
+                "Centre": {
+                    "pourcentage": 11.2,
+                    "nombre_absolu": 224000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 16.1,
+                    "nombre_absolu": 322000
+                },
+                "Corse": {
+                    "pourcentage": 12.9,
+                    "nombre_absolu": 258000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 19.1,
+                    "nombre_absolu": 382000
+                },
+                "Île-de-France": {
+                    "pourcentage": 16.4,
+                    "nombre_absolu": 328000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 10.3,
+                    "nombre_absolu": 206000
+                },
+                "Limousin": {
+                    "pourcentage": 15.9,
+                    "nombre_absolu": 318000
+                },
+                "Lorraine": {
+                    "pourcentage": 12.5,
+                    "nombre_absolu": 250000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 17.8,
+                    "nombre_absolu": 356000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 19.5,
+                    "nombre_absolu": 390000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 17.2,
+                    "nombre_absolu": 344000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 13.8,
+                    "nombre_absolu": 276000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 13.4,
+                    "nombre_absolu": 268000
+                },
+                "Picardie": {
+                    "pourcentage": 10.1,
+                    "nombre_absolu": 202000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 15.9,
+                    "nombre_absolu": 318000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 10.5,
+                    "nombre_absolu": 210000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 10.2,
+                    "nombre_absolu": 204000
+                }
+            }
+        },
+        {
+            "mois": "janvier 2021",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 13.8,
+                    "nombre_absolu": 138000
+                },
+                "femmes": {
+                    "pourcentage": 16.6,
+                    "nombre_absolu": 166000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 19.4,
+                    "nombre_absolu": 388000
+                },
+                "Aquitaine": {
+                    "pourcentage": 14.0,
+                    "nombre_absolu": 280000
+                },
+                "Auvergne": {
+                    "pourcentage": 17.4,
+                    "nombre_absolu": 348000
+                },
+                "Bourgogne": {
+                    "pourcentage": 10.4,
+                    "nombre_absolu": 208000
+                },
+                "Bretagne": {
+                    "pourcentage": 11.9,
+                    "nombre_absolu": 238000
+                },
+                "Centre": {
+                    "pourcentage": 13.2,
+                    "nombre_absolu": 264000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 12.5,
+                    "nombre_absolu": 250000
+                },
+                "Corse": {
+                    "pourcentage": 16.4,
+                    "nombre_absolu": 328000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 19.4,
+                    "nombre_absolu": 388000
+                },
+                "Île-de-France": {
+                    "pourcentage": 16.9,
+                    "nombre_absolu": 338000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 11.1,
+                    "nombre_absolu": 222000
+                },
+                "Limousin": {
+                    "pourcentage": 11.9,
+                    "nombre_absolu": 238000
+                },
+                "Lorraine": {
+                    "pourcentage": 12.6,
+                    "nombre_absolu": 252000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 10.8,
+                    "nombre_absolu": 216000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 15.8,
+                    "nombre_absolu": 316000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 18.3,
+                    "nombre_absolu": 366000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 13.6,
+                    "nombre_absolu": 272000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 13.5,
+                    "nombre_absolu": 270000
+                },
+                "Picardie": {
+                    "pourcentage": 11.7,
+                    "nombre_absolu": 234000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 15.3,
+                    "nombre_absolu": 306000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 14.7,
+                    "nombre_absolu": 294000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 16.7,
+                    "nombre_absolu": 334000
+                }
+            }
+        },
+        {
+            "mois": "février 2021",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 12.9,
+                    "nombre_absolu": 129000
+                },
+                "femmes": {
+                    "pourcentage": 17.1,
+                    "nombre_absolu": 171000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 17.2,
+                    "nombre_absolu": 344000
+                },
+                "Aquitaine": {
+                    "pourcentage": 14.1,
+                    "nombre_absolu": 282000
+                },
+                "Auvergne": {
+                    "pourcentage": 14.0,
+                    "nombre_absolu": 280000
+                },
+                "Bourgogne": {
+                    "pourcentage": 15.0,
+                    "nombre_absolu": 300000
+                },
+                "Bretagne": {
+                    "pourcentage": 13.9,
+                    "nombre_absolu": 278000
+                },
+                "Centre": {
+                    "pourcentage": 13.4,
+                    "nombre_absolu": 268000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 11.0,
+                    "nombre_absolu": 220000
+                },
+                "Corse": {
+                    "pourcentage": 17.0,
+                    "nombre_absolu": 340000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 10.8,
+                    "nombre_absolu": 216000
+                },
+                "Île-de-France": {
+                    "pourcentage": 12.1,
+                    "nombre_absolu": 242000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 18.3,
+                    "nombre_absolu": 366000
+                },
+                "Limousin": {
+                    "pourcentage": 11.3,
+                    "nombre_absolu": 226000
+                },
+                "Lorraine": {
+                    "pourcentage": 18.6,
+                    "nombre_absolu": 372000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 16.2,
+                    "nombre_absolu": 324000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 16.1,
+                    "nombre_absolu": 322000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 17.1,
+                    "nombre_absolu": 342000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 14.3,
+                    "nombre_absolu": 286000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 15.3,
+                    "nombre_absolu": 306000
+                },
+                "Picardie": {
+                    "pourcentage": 16.7,
+                    "nombre_absolu": 334000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 12.7,
+                    "nombre_absolu": 254000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 15.3,
+                    "nombre_absolu": 306000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 18.7,
+                    "nombre_absolu": 374000
+                }
+            }
+        },
+        {
+            "mois": "mars 2021",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 13.9,
+                    "nombre_absolu": 139000
+                },
+                "femmes": {
+                    "pourcentage": 19.4,
+                    "nombre_absolu": 194000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 11.6,
+                    "nombre_absolu": 232000
+                },
+                "Aquitaine": {
+                    "pourcentage": 14.6,
+                    "nombre_absolu": 292000
+                },
+                "Auvergne": {
+                    "pourcentage": 19.1,
+                    "nombre_absolu": 382000
+                },
+                "Bourgogne": {
+                    "pourcentage": 10.7,
+                    "nombre_absolu": 214000
+                },
+                "Bretagne": {
+                    "pourcentage": 18.0,
+                    "nombre_absolu": 360000
+                },
+                "Centre": {
+                    "pourcentage": 13.9,
+                    "nombre_absolu": 278000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 11.1,
+                    "nombre_absolu": 222000
+                },
+                "Corse": {
+                    "pourcentage": 17.9,
+                    "nombre_absolu": 358000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 11.7,
+                    "nombre_absolu": 234000
+                },
+                "Île-de-France": {
+                    "pourcentage": 19.3,
+                    "nombre_absolu": 386000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 15.0,
+                    "nombre_absolu": 300000
+                },
+                "Limousin": {
+                    "pourcentage": 15.4,
+                    "nombre_absolu": 308000
+                },
+                "Lorraine": {
+                    "pourcentage": 19.3,
+                    "nombre_absolu": 386000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 16.2,
+                    "nombre_absolu": 324000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 12.3,
+                    "nombre_absolu": 246000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 10.8,
+                    "nombre_absolu": 216000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 10.8,
+                    "nombre_absolu": 216000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 18.4,
+                    "nombre_absolu": 368000
+                },
+                "Picardie": {
+                    "pourcentage": 15.2,
+                    "nombre_absolu": 304000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 16.3,
+                    "nombre_absolu": 326000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 17.5,
+                    "nombre_absolu": 350000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 15.1,
+                    "nombre_absolu": 302000
+                }
+            }
+        },
+        {
+            "mois": "avril 2021",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 10.4,
+                    "nombre_absolu": 104000
+                },
+                "femmes": {
+                    "pourcentage": 17.4,
+                    "nombre_absolu": 174000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 18.3,
+                    "nombre_absolu": 366000
+                },
+                "Aquitaine": {
+                    "pourcentage": 14.9,
+                    "nombre_absolu": 298000
+                },
+                "Auvergne": {
+                    "pourcentage": 15.2,
+                    "nombre_absolu": 304000
+                },
+                "Bourgogne": {
+                    "pourcentage": 14.9,
+                    "nombre_absolu": 298000
+                },
+                "Bretagne": {
+                    "pourcentage": 14.0,
+                    "nombre_absolu": 280000
+                },
+                "Centre": {
+                    "pourcentage": 18.3,
+                    "nombre_absolu": 366000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 14.6,
+                    "nombre_absolu": 292000
+                },
+                "Corse": {
+                    "pourcentage": 13.7,
+                    "nombre_absolu": 274000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 17.6,
+                    "nombre_absolu": 352000
+                },
+                "Île-de-France": {
+                    "pourcentage": 10.7,
+                    "nombre_absolu": 214000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 19.8,
+                    "nombre_absolu": 396000
+                },
+                "Limousin": {
+                    "pourcentage": 19.0,
+                    "nombre_absolu": 380000
+                },
+                "Lorraine": {
+                    "pourcentage": 18.8,
+                    "nombre_absolu": 376000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 18.9,
+                    "nombre_absolu": 378000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 14.0,
+                    "nombre_absolu": 280000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 12.5,
+                    "nombre_absolu": 250000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 17.7,
+                    "nombre_absolu": 354000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 12.3,
+                    "nombre_absolu": 246000
+                },
+                "Picardie": {
+                    "pourcentage": 14.0,
+                    "nombre_absolu": 280000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 18.5,
+                    "nombre_absolu": 370000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 11.4,
+                    "nombre_absolu": 228000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 18.4,
+                    "nombre_absolu": 368000
+                }
+            }
+        },
+        {
+            "mois": "mai 2021",
+            "sexe": {
+                "hommes": {
+                    "pourcentage": 11.2,
+                    "nombre_absolu": 112000
+                },
+                "femmes": {
+                    "pourcentage": 18.1,
+                    "nombre_absolu": 181000
+                }
+            },
+            "regions": {
+                "Alsace": {
+                    "pourcentage": 12.9,
+                    "nombre_absolu": 258000
+                },
+                "Aquitaine": {
+                    "pourcentage": 12.1,
+                    "nombre_absolu": 242000
+                },
+                "Auvergne": {
+                    "pourcentage": 19.9,
+                    "nombre_absolu": 398000
+                },
+                "Bourgogne": {
+                    "pourcentage": 12.3,
+                    "nombre_absolu": 246000
+                },
+                "Bretagne": {
+                    "pourcentage": 15.0,
+                    "nombre_absolu": 300000
+                },
+                "Centre": {
+                    "pourcentage": 18.7,
+                    "nombre_absolu": 374000
+                },
+                "Champagne-Ardenne": {
+                    "pourcentage": 15.0,
+                    "nombre_absolu": 300000
+                },
+                "Corse": {
+                    "pourcentage": 19.4,
+                    "nombre_absolu": 388000
+                },
+                "Franche-Comté": {
+                    "pourcentage": 18.1,
+                    "nombre_absolu": 362000
+                },
+                "Île-de-France": {
+                    "pourcentage": 13.5,
+                    "nombre_absolu": 270000
+                },
+                "Languedoc-Roussillon": {
+                    "pourcentage": 17.3,
+                    "nombre_absolu": 346000
+                },
+                "Limousin": {
+                    "pourcentage": 16.8,
+                    "nombre_absolu": 336000
+                },
+                "Lorraine": {
+                    "pourcentage": 11.9,
+                    "nombre_absolu": 238000
+                },
+                "Midi-Pyrénées": {
+                    "pourcentage": 15.4,
+                    "nombre_absolu": 308000
+                },
+                "Nord-Pas-de-Calais": {
+                    "pourcentage": 15.5,
+                    "nombre_absolu": 310000
+                },
+                "Basse-Normandie": {
+                    "pourcentage": 11.2,
+                    "nombre_absolu": 224000
+                },
+                "Haute-Normandie": {
+                    "pourcentage": 17.0,
+                    "nombre_absolu": 340000
+                },
+                "Pays de la Loire": {
+                    "pourcentage": 14.1,
+                    "nombre_absolu": 282000
+                },
+                "Picardie": {
+                    "pourcentage": 14.3,
+                    "nombre_absolu": 286000
+                },
+                "Poitou-Charentes": {
+                    "pourcentage": 14.5,
+                    "nombre_absolu": 290000
+                },
+                "Provence-Alpes-Côte d'Azur": {
+                    "pourcentage": 13.6,
+                    "nombre_absolu": 272000
+                },
+                "Rhône-Alpes": {
+                    "pourcentage": 15.4,
+                    "nombre_absolu": 308000
+                }
+            }
+        }
+    ]
+}

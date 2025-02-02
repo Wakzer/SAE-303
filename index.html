@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SAE 303 Datavisualisation - Dépression en France</title>
+    <link rel="stylesheet" href="Style/styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Datavisualisation - Dépression en France</h1>
+        <p>Visualisez les données sur la dépression durant la pandémie de COVID-19 en France.</p>
+        <p>L'objectif de ce site est de montrer le pourcentage de personnes atteintes de dépression <br>pendant la
+            pandémie, en fonction de leur sexe ou de leur emplacement géographique.</p>
+    </header>
+
+    <main>
+        <div class="graph">
+            <h2>Pourcentage de dépression par sexe</h2>
+            <div class="bar-graph" id="bar-graph"></div>
+        </div>
+
+        <select id="month-selector">
+            <option value="">Sélectionnez une période</option>
+        </select>
+
+        <div class="map-container">
+            <div class="map">
+                <h2>Carte de la France</h2>
+                <div id="france-map"></div>
+            </div>
+            <div id="region-info" class="region-info">
+                <h2>Informations sur la région</h2>
+                <p>Sélectionnez une période puis cliquez sur une région</p>
+            </div>
+        </div>
+
+        <div class="info-map">
+            <p>les différentes couleurs correspondent à :
+                <br> <span style="color: #0000FF;">Bleu</span> si le % est <= 11%
+                <br> <span style="color: #00CCFF;">Bleu clair</span> si le % est <= 13%
+                <br> <span style="color: #00FF00;">Vert</span> si le % est <= 15%
+                <br> <span style="color: #FFFF00;">Jaune</span> si le % est <= 17%
+                <br> <span style="color: #FFA500;">Orange</span> si le % est <= 19%
+                <br> <span style="color: #FF0000;">Rouge</span> si le % est > 19%
+            </p>
+        </div>
+    </main>
+
+    <footer>
+        <p>Sources : Données issues de ChatGPT car je ne trouvais pas de données d'assez bonne qualité.</p>
+    </footer>
+
+    <script src="script/script.js"></script>
+</body>
+
+</html>
